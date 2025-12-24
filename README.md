@@ -137,21 +137,17 @@ Multi-agent architecture for intelligent, context-aware responses.
 </tr>
 </table>
 
----
 
+---
 ## 🏆 Achievements & Recognition
 
-<div align="center">
-
 | 🚀 Achievement | 📝 Description |
-|: ---|:---|
+|:---------------|:---------------|
 | **Production Deployments** | Multiple applications deployed on Vercel with active users |
 | **Social Impact** | Built projects addressing rural development challenges |
 | **AI Excellence** | Developed AI solutions with 90%+ accuracy rates |
 | **Modern Stack** | Leveraging cutting-edge technologies (React 19, Next.js 15) |
 | **Network Engineering** | Campus Network VLAN design for BSNL enterprise systems |
-
-</div>
 ---
 
 ## 🔬 Specialized Skills
