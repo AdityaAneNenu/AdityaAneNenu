@@ -70,14 +70,13 @@ const aditya = {
 
 <div align="center">
   
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
+![Aditya's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaAneNenu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaAneNenu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
 
 </div>
-
 ---
 
 ## 🎯 Featured Projects
@@ -234,7 +233,7 @@ for role, passion in opportunities.items():
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vsld)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:adityaduggi0@gmail. com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:adityaduggi0@gmail.com)
 
 ---
 
