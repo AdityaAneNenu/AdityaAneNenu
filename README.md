@@ -66,19 +66,6 @@ const aditya = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Aditya's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaAneNenu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
-
-</div>
----
-
 ## 🎯 Featured Projects
 
 <table>
