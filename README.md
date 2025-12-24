@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsld)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaduggi0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaanenenu5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AdityaAneNenu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaAneNenu)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdityaAneNenu&color=00C7B7&style=for-the-badge)
@@ -220,7 +220,7 @@ for role, passion in opportunities.items():
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vsld)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:adityaduggi0@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:adityaanenenu5@gmail.com)
 
 ---
 
