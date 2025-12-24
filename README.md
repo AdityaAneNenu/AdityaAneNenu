@@ -32,14 +32,14 @@ const aditya = {
 - 🔭 Currently building scalable web applications with **Java** and modern frameworks
 - 🌱 Deepening expertise in **Python** for AI/ML development
 - 🚀 Exploring advanced machine learning models and deployment strategies
-- 💼 Open for collaboration on innovative projects that make a difference! 
+- 💼 Open for collaboration on innovative projects that make a difference!  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React_19-20232A? style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@ const aditya = {
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000? style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI/ML & Data
@@ -70,9 +70,9 @@ const aditya = {
 
 <div align="center">
   
-![Aditya's GitHub Stats](https://github-readme-stats. vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaAneNenu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
 
@@ -93,7 +93,7 @@ AI-powered rural infrastructure monitoring system with biometric voice verificat
 
 **Tech Stack:** Python, HTML, CSS, JavaScript
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7? style=for-the-badge&logo=vercel)](https://setu-pearl.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://setu-pearl.vercel.app)
 [![Repo](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/AdityaAneNenu/setu)
 
 </td>
@@ -143,7 +143,7 @@ Streamlined doctor scheduling and availability tracking for improved healthcare 
 ### 🤖 Multi-Agentic Chat System
 **Advanced Conversational AI with 90% Accuracy**
 
-Multi-agent architecture for intelligent, context-aware responses. 
+Multi-agent architecture for intelligent, context-aware responses.  
 
 **Tech Stack:** AI/ML, Python, Multi-Agent Systems
 
@@ -215,7 +215,7 @@ opportunities = {
 }
 
 for role, passion in opportunities.items():
-    print(f"✅ {role}:  {passion}")
+    print(f"✅ {role}: {passion}")
 ```
 
 ---
@@ -226,20 +226,20 @@ for role, passion in opportunities.items():
 
 *"The best way to predict the future is to create it."*
 
-**⭐ Star my repos if you find them interesting!**
+**⭐ Star my repos if you find them interesting! **
 
 ---
 
 ### 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsld. vercel.app-00C7B7?style=for-the-badge)](https://vsld.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vsld)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836? style=for-the-badge)](mailto:adityaduggi0@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:adityaduggi0@gmail. com)
 
 ---
 
 **© 2025 Aditya · Built with 💙 and lots of ☕**
 
-*Thanks for visiting! Happy coding! 👨‍💻*
+*Thanks for visiting!  Happy coding! 👨‍💻*
 
 </div>
