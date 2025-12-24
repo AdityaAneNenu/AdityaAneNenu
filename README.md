@@ -152,7 +152,6 @@ Multi-agent architecture for intelligent, context-aware responses.
 | **Network Engineering** | Campus Network VLAN design for BSNL enterprise systems |
 
 </div>
-
 ---
 
 ## 🔬 Specialized Skills
