@@ -8,7 +8,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-00C7B7? style=for-the-badge&logo=vercel&logoColor=white)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsld)
-[![Email](https://img.shields.io/badge/Email-adityaduggi0@gmail. com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaduggi0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaduggi0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AdityaAneNenu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaAneNenu)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdityaAneNenu&color=00C7B7&style=for-the-badge)
 
@@ -39,28 +40,28 @@ const aditya = {
 
 ### Frontend
 ![React](https://img.shields.io/badge/React_19-20232A? style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933? style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI/ML & Data
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=ai&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Database & Tools
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC? style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -81,91 +82,140 @@ const aditya = {
 
 ## 🎯 Featured Projects
 
-### 🏘️ [SETU - Smart Evaluation and Tracking Utility](https://github.com/AdityaAneNenu/setu)
-**Comprehensive rural infrastructure monitoring system**
-- 🤖 AI-powered analysis and biometric voice verification
-- 📱 Mobile integration for field workers
-- 🎯 Bridging the gap in village development monitoring
-- **Tech:** Python, HTML, CSS, JavaScript
+<table>
+<tr>
+<td width="50%">
 
-🔗 [Live Demo](https://setu-pearl.vercel.app) • [Repository](https://github.com/AdityaAneNenu/setu)
+### 🏘️ SETU
+**Smart Evaluation & Tracking Utility**
 
----
+AI-powered rural infrastructure monitoring system with biometric voice verification and mobile integration.
 
-### 💼 [Personal Portfolio](https://github.com/AdityaAneNenu/My_Portfolio)
-**Modern developer showcase with futuristic design**
-- ✨ Smooth animations with Framer Motion
-- 🎨 Particle effects and responsive design
-- 📂 AI/ML projects and development journey
-- **Tech:** Next.js 15, React 19, TypeScript
+**Tech Stack:** Python, HTML, CSS, JavaScript
 
-🔗 [Live Site](https://vsld.vercel.app) • [Repository](https://github.com/AdityaAneNenu/My_Portfolio)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7? style=for-the-badge&logo=vercel)](https://setu-pearl. vercel.app)
+[![Repo](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/AdityaAneNenu/setu)
 
----
+</td>
+<td width="50%">
+
+### 💼 Personal Portfolio
+**Modern Developer Showcase**
+
+Futuristic portfolio with smooth animations, particle effects, and responsive design.
+
+**Tech Stack:** Next.js 15, React 19, TypeScript
+
+[![Live Site](https://img.shields.io/badge/Live-Site-00C7B7?style=for-the-badge&logo=vercel)](https://vsld.vercel.app)
+[![Repo](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/AdityaAneNenu/My_Portfolio)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 💰 Money Mentor AI
-**AI-powered financial advisory platform**
-- 🧠 Machine learning for personalized recommendations
-- 📊 Investment insights and financial planning
-- 🎯 Intelligent financial guidance system
+**AI Financial Advisory Platform**
 
----
+Intelligent financial guidance system with ML-powered personalized recommendations and insights.
 
-### 🏥 [Doctor Availability System](https://github.com/AdityaAneNenu/doctor-availability-system)
-**Healthcare management solution**
-- 📅 Doctor scheduling and availability tracking
-- 🏥 Improved healthcare access
-- **Tech:** TypeScript
+**Tech Stack:** AI/ML, Python
 
-🔗 [Repository](https://github.com/AdityaAneNenu/doctor-availability-system)
+</td>
+<td width="50%">
 
----
+### 🏥 Doctor Availability System
+**Healthcare Management Solution**
+
+Streamlined doctor scheduling and availability tracking for improved healthcare access.
+
+**Tech Stack:** TypeScript
+
+[![Repo](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/AdityaAneNenu/doctor-availability-system)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 
 ### 🤖 Multi-Agentic Chat System
-**Advanced conversational AI**
-- 🎯 90% accuracy rate
-- 🔄 Multi-agent architecture
-- 💬 Context-aware intelligent responses
+**Advanced Conversational AI with 90% Accuracy**
+
+Multi-agent architecture for intelligent, context-aware responses. 
+
+**Tech Stack:** AI/ML, Python, Multi-Agent Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-- ✅ Multiple production-ready applications deployed on Vercel
-- 🌾 Social impact projects addressing rural development
-- 🤖 AI-powered solutions with 90%+ accuracy
-- 🎨 Modern, responsive web applications using cutting-edge tech
-- 🌐 Campus Network VLAN design for BSNL enterprise systems
+<div align="center">
+
+| 🚀 Achievement | 📝 Description |
+|:---|:---|
+| **Production Deployments** | Multiple applications deployed on Vercel with active users |
+| **Social Impact** | Built projects addressing rural development challenges |
+| **AI Excellence** | Developed AI solutions with 90%+ accuracy rates |
+| **Modern Stack** | Leveraging cutting-edge technologies (React 19, Next.js 15) |
+| **Network Engineering** | Campus Network VLAN design for BSNL enterprise systems |
+
+</div>
 
 ---
 
 ## 🔬 Specialized Skills
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **🌐 Network Engineering**
 - Campus Network VLAN design for BSNL
-- Enterprise-level infrastructure planning and implementation
+- Enterprise-level infrastructure planning
+- Network security implementation
+
+</td>
+<td width="50%" valign="top">
 
 **🔭 Research & Development**
 - Cutting-edge AI/ML technologies
-- Practical applications and real-world problem-solving
+- Practical applications & real-world solutions
+- Innovation in web development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaAneNenu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaAneNenu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)
+
+</div>
 
 ---
 
-## 💡 What I'm Looking For
+## 💡 Open To Opportunities
 
 ```python
 opportunities = {
-    "hackathons": "Love to collaborate and innovate!",
-    "full_stack_roles": "Building end-to-end solutions",
-    "ai_ml_projects": "Pushing the boundaries of AI",
-    "open_source": "Contributing to the community"
+    "hackathons": "Love to collaborate and innovate!  🚀",
+    "full_stack_roles": "Building end-to-end solutions 💻",
+    "ai_ml_projects": "Pushing the boundaries of AI 🤖",
+    "open_source": "Contributing to the community 🌍"
 }
+
+for role, passion in opportunities.items():
+    print(f"✅ {role}: {passion}")
 ```
 
 ---
@@ -178,12 +228,18 @@ opportunities = {
 
 **⭐ Star my repos if you find them interesting!**
 
-</div>
+---
+
+### 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsld.vercel. app-00C7B7? style=for-the-badge)](https://vsld.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vsld)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:adityaduggi0@gmail.com)
 
 ---
 
-<div align="center">
-  
 **© 2025 Aditya · Built with 💙 and lots of ☕**
+
+*Thanks for visiting!  Happy coding! 👨‍💻*
 
 </div>
