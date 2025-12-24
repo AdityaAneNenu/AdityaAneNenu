@@ -6,7 +6,7 @@
 
 *Creating intelligent web applications and scalable systems that drive real-world impact*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-00C7B7? style=for-the-badge&logo=vercel&logoColor=white)](https://vsld.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsld)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaduggi0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AdityaAneNenu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaAneNenu)
@@ -49,7 +49,7 @@ const aditya = {
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000? style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI/ML & Data
@@ -61,7 +61,7 @@ const aditya = {
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC? style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -70,9 +70,9 @@ const aditya = {
 
 <div align="center">
   
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
+![Aditya's GitHub Stats](https://github-readme-stats. vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaAneNenu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
 
@@ -93,7 +93,7 @@ AI-powered rural infrastructure monitoring system with biometric voice verificat
 
 **Tech Stack:** Python, HTML, CSS, JavaScript
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7? style=for-the-badge&logo=vercel)](https://setu-pearl. vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7? style=for-the-badge&logo=vercel)](https://setu-pearl.vercel.app)
 [![Repo](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/AdityaAneNenu/setu)
 
 </td>
@@ -158,7 +158,7 @@ Multi-agent architecture for intelligent, context-aware responses.
 <div align="center">
 
 | 🚀 Achievement | 📝 Description |
-|:---|:---|
+|: ---|:---|
 | **Production Deployments** | Multiple applications deployed on Vercel with active users |
 | **Social Impact** | Built projects addressing rural development challenges |
 | **AI Excellence** | Developed AI solutions with 90%+ accuracy rates |
@@ -198,7 +198,7 @@ Multi-agent architecture for intelligent, context-aware responses.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaAneNenu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaAneNenu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -215,7 +215,7 @@ opportunities = {
 }
 
 for role, passion in opportunities.items():
-    print(f"✅ {role}: {passion}")
+    print(f"✅ {role}:  {passion}")
 ```
 
 ---
@@ -232,14 +232,14 @@ for role, passion in opportunities.items():
 
 ### 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsld.vercel. app-00C7B7? style=for-the-badge)](https://vsld.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsld. vercel.app-00C7B7?style=for-the-badge)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vsld)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:adityaduggi0@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836? style=for-the-badge)](mailto:adityaduggi0@gmail.com)
 
 ---
 
 **© 2025 Aditya · Built with 💙 and lots of ☕**
 
-*Thanks for visiting!  Happy coding! 👨‍💻*
+*Thanks for visiting! Happy coding! 👨‍💻*
 
 </div>
