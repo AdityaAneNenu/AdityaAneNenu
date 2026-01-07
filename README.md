@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Venkata Siva Lalitaaditya (Aditya)
+# Hi, I'm Venkata Siva Lalitaaditya (Aditya)
 
 ### Full-Stack Developer | AI/ML Enthusiast | Building the Future
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const aditya = {
@@ -29,14 +29,14 @@ const aditya = {
 };
 ```
 
-- 🔭 Currently building scalable web applications with **Java** and modern frameworks
-- 🌱 Deepening expertise in **Python** for AI/ML development
-- 🚀 Exploring advanced machine learning models and deployment strategies
-- 💼 Open for collaboration on innovative projects that make a difference!  
+- Currently building scalable web applications with **Java** and modern frameworks
+- Deepening expertise in **Python** for AI/ML development
+- Exploring advanced machine learning models and deployment strategies
+- Open for collaboration on innovative projects that make a difference!  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -66,13 +66,13 @@ const aditya = {
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏘️ SETU
+### SETU
 **Smart Evaluation & Tracking Utility**
 
 AI-powered rural infrastructure monitoring system with biometric voice verification and mobile integration.
@@ -85,7 +85,7 @@ AI-powered rural infrastructure monitoring system with biometric voice verificat
 </td>
 <td width="50%">
 
-### 💼 Personal Portfolio
+### Personal Portfolio
 **Modern Developer Showcase**
 
 Futuristic portfolio with smooth animations, particle effects, and responsive design.
@@ -101,7 +101,7 @@ Futuristic portfolio with smooth animations, particle effects, and responsive de
 <tr>
 <td width="50%">
 
-### 💰 Money Mentor AI
+### Money Mentor AI
 **AI Financial Advisory Platform**
 
 Intelligent financial guidance system with ML-powered personalized recommendations and insights.
@@ -111,7 +111,7 @@ Intelligent financial guidance system with ML-powered personalized recommendatio
 </td>
 <td width="50%">
 
-### 🏥 Doctor Availability System
+### Doctor Availability System
 **Healthcare Management Solution**
 
 Streamlined doctor scheduling and availability tracking for improved healthcare access.
@@ -126,7 +126,7 @@ Streamlined doctor scheduling and availability tracking for improved healthcare 
 <tr>
 <td colspan="2">
 
-### 🤖 Multi-Agentic Chat System
+### Multi-Agentic Chat System
 **Advanced Conversational AI with 90% Accuracy**
 
 Multi-agent architecture for intelligent, context-aware responses.  
@@ -139,9 +139,9 @@ Multi-agent architecture for intelligent, context-aware responses.
 
 
 ---
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
-| 🚀 Achievement | 📝 Description |
+| Achievement | Description |
 |:---------------|:---------------|
 | **Production Deployments** | Multiple applications deployed on Vercel with active users |
 | **Social Impact** | Built projects addressing rural development challenges |
@@ -150,13 +150,13 @@ Multi-agent architecture for intelligent, context-aware responses.
 | **Network Engineering** | Campus Network VLAN design for BSNL enterprise systems |
 ---
 
-## 🔬 Specialized Skills
+## Specialized Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌐 Network Engineering**
+**Network Engineering**
 - Campus Network VLAN design for BSNL
 - Enterprise-level infrastructure planning
 - Network security implementation
@@ -164,7 +164,7 @@ Multi-agent architecture for intelligent, context-aware responses.
 </td>
 <td width="50%" valign="top">
 
-**🔭 Research & Development**
+**Research & Development**
 - Cutting-edge AI/ML technologies
 - Practical applications & real-world solutions
 - Innovation in web development
@@ -175,52 +175,52 @@ Multi-agent architecture for intelligent, context-aware responses.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaAneNenu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaAneNenu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)](https://github.com/AdityaAneNenu)
 
 </div>
 
 ---
 
-## 💡 Open To Opportunities
+## Open To Opportunities
 
 ```python
 opportunities = {
-    "hackathons": "Love to collaborate and innovate!  🚀",
-    "full_stack_roles": "Building end-to-end solutions 💻",
-    "ai_ml_projects": "Pushing the boundaries of AI 🤖",
-    "open_source": "Contributing to the community 🌍"
+    "hackathons": "Love to collaborate and innovate!",
+    "full_stack_roles": "Building end-to-end solutions",
+    "ai_ml_projects": "Pushing the boundaries of AI",
+    "open_source": "Contributing to the community"
 }
 
 for role, passion in opportunities.items():
-    print(f"✅ {role}: {passion}")
+    print(f"{role}: {passion}")
 ```
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together! 
+### Let's Build Something Amazing Together! 
 
 *"The best way to predict the future is to create it."*
 
-**⭐ Star my repos if you find them interesting! **
+**Star my repos if you find them interesting!**
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge)](https://vsld.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vsld)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:adityaanenenu5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge)](https://vsld.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vsld)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge)](mailto:adityaanenenu5@gmail.com)
 
 ---
 
-**© 2025 Aditya · Built with 💙 and lots of ☕**
+**© 2025 Aditya · Built with love and lots of coffee**
 
-*Thanks for visiting!  Happy coding! 👨‍💻*
+*Thanks for visiting! Happy coding!*
 
 </div>
