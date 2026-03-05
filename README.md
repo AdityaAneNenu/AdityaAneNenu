@@ -66,6 +66,19 @@ const aditya = {
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=AdityaAneNenu&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" width="70%" />
+
+</div>
+
+---
+
 ## Featured Projects
 
 <table>
@@ -148,6 +161,7 @@ Multi-agent architecture for intelligent, context-aware responses.
 | **AI Excellence** | Developed AI solutions with 90%+ accuracy rates |
 | **Modern Stack** | Leveraging cutting-edge technologies (React 19, Next.js 15) |
 | **Network Engineering** | Campus Network VLAN design for BSNL enterprise systems |
+
 ---
 
 ## Specialized Skills
@@ -203,11 +217,11 @@ for role, passion in opportunities.items():
 
 <div align="center">
 
-### Let's Build Something Amazing Together! 
+### Let's Build Something Amazing Together!
 
 *"The best way to predict the future is to create it."*
 
-**Star my repos if you find them interesting!**
+*If my work adds value to you, consider starring the repository.*
 
 ---
 
@@ -219,8 +233,8 @@ for role, passion in opportunities.items():
 
 ---
 
-**© 2025 Aditya · Built with love and lots of coffee**
+**© 2026 Venkata Siva Lalitaaditya — Full-Stack Developer & AI/ML Engineer**
 
-*Thanks for visiting! Happy coding!*
+*Open to full-time roles, freelance projects, and research collaborations.*
 
 </div>
