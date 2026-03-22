@@ -52,7 +52,7 @@ const aditya = {
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=firebase,mysql,git,vscode,vercel&theme=dark" alt="Database and tools: Firebase, MySQL, Git, VS Code, Vercel" />
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,vercel&theme=dark" alt="Database and tools: MySQL, Git, VS Code, Vercel" />
 
 </div>
 
@@ -154,6 +154,7 @@ Multi-agent architecture for intelligent, context-aware responses.
 
 
 ---
+
 ## 🎯 Achievements & Recognition
 
 | Achievement | Description |
