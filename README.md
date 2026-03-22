@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:0D1117&height=220&section=header&text=Venkata%20Siva%20Lalitaaditya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=00C7B7" width="100%" alt="Profile header banner — Venkata Siva Lalitaaditya, Full-Stack Developer & AI/ML Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00C7B7,100:0D1117&amp;height=220&amp;section=header&amp;text=Venkata%20Siva%20Lalitaaditya&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&amp;descAlignY=58&amp;descSize=18&amp;descColor=00C7B7" width="100%" alt="Profile header banner — Venkata Siva Lalitaaditya, Full-Stack Developer &amp; AI/ML Engineer" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;React+19+%7C+Next.js+15+%7C+Python+Developer;Building+Intelligent+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80" alt="Animated text cycling through: Full-Stack Developer | AI/ML Engineer, React 19 | Next.js 15 | Python Developer, Building Intelligent Web Applications, Open to Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00C7B7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;React+19+%7C+Next.js+15+%7C+Python+Developer;Building+Intelligent+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80" alt="Animated text cycling through: Full-Stack Developer | AI/ML Engineer, React 19 | Next.js 15 | Python Developer, Building Intelligent Web Applications, Open to Opportunities" />
 
 <br/>
 
@@ -41,10 +41,10 @@ const aditya = {
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html&theme=dark" alt="Frontend technologies: React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html&amp;theme=dark" alt="Frontend technologies: React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML" />
 
 ### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,python,flask,firebase&theme=dark" alt="Backend technologies: Node.js, Python, Flask, Firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,firebase&amp;theme=dark" alt="Backend technologies: Node.js, Python, Flask, Firebase" />
 
 ### AI/ML & Data
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -52,7 +52,7 @@ const aditya = {
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,vscode,vercel&theme=dark" alt="Database and tools: MySQL, Git, VS Code, Vercel" />
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,vercel&amp;theme=dark" alt="Database and tools: MySQL, Git, VS Code, Vercel" />
 
 </div>
 
@@ -62,7 +62,7 @@ const aditya = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaAneNenu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub achievement trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaAneNenu&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" width="100%" alt="GitHub achievement trophies" />
 
 </div>
 
@@ -72,10 +72,10 @@ const aditya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaAneNenu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAneNenu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaAneNenu&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00C7B7&amp;icon_color=00C7B7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAneNenu&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00C7B7" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=AdityaAneNenu&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" width="70%" />
+<img src="https://streak-stats.demolab.com?user=AdityaAneNenu&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00C7B7&amp;fire=00C7B7&amp;currStreakLabel=00C7B7" width="70%" />
 
 </div>
 
@@ -242,4 +242,4 @@ for role, passion in opportunities.items():
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:0D1117&height=120&section=footer" width="100%" alt="Profile footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:00C7B7,100:0D1117&amp;height=120&amp;section=footer" width="100%" alt="Profile footer banner" />
