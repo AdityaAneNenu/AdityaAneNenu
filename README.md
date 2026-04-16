@@ -1,17 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:0D1117&height=220&section=header&text=Venkata%20Siva%20Lalitaaditya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=00C7B7" width="100%" alt="Profile header banner — Venkata Siva Lalitaaditya, Full-Stack Developer & AI/ML Engineer" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;React+19+%7C+Next.js+15+%7C+Python+Developer;Building+Intelligent+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80" alt="Animated typing text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=80&lines=Venkata+Siva+Lalitaaditya" alt="Name heading" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;React+19+%7C+Next.js+15+%7C+Python+Developer;Building+Intelligent+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80" alt="Animated subtitle" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://vsld.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsld)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaanenenu5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AdityaAneNenu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaAneNenu)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdityaAneNenu&color=00C7B7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaAneNenu&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -41,28 +41,18 @@ const aditya = {
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html&theme=dark" alt="Frontend technologies: React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML" />
 
 ### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,python,flask,firebase&theme=dark" alt="Backend technologies: Node.js, Python, Flask, Firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,firebase&theme=dark" alt="Node.js, Python, Flask, Firebase" />
 
 ### AI/ML & Data
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-013243?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,vscode,vercel&theme=dark" alt="Database and tools: MySQL, Git, VS Code, Vercel" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaAneNenu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub achievement trophies" />
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,vercel&theme=dark" alt="MySQL, Git, VS Code, Vercel" />
 
 </div>
 
@@ -72,21 +62,11 @@ const aditya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=4263&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="70%" alt="Hackatime coding stats" />
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=4263&api_domain=hackatime.hackclub.com&theme=midnight-purple&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&hide_border=true" width="70%" alt="Hackatime coding stats" />
 
 <br/><br/>
 
 [![Inavra](https://hackatime.hackclub.com/api/v1/badge/U091P96N85Q/AdityaAneNenu/Inavra)](https://hackatime.hackclub.com)
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://heatmap.shymike.dev/?id=4263&timezone=Asia/Kolkata" width="100%" alt="Coding activity heatmap" />
 
 </div>
 
@@ -105,7 +85,7 @@ AI-powered rural infrastructure monitoring system with biometric voice verificat
 
 **Tech Stack:** Python, HTML, CSS, JavaScript
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://setu-pearl.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-A855F7?style=for-the-badge&logo=vercel)](https://setu-pearl.vercel.app)
 [![Repo](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/AdityaAneNenu/setu)
 
 </td>
@@ -118,12 +98,11 @@ Futuristic portfolio with smooth animations, particle effects, and responsive de
 
 **Tech Stack:** Next.js 15, React 19, TypeScript
 
-[![Live Site](https://img.shields.io/badge/Live-Site-00C7B7?style=for-the-badge&logo=vercel)](https://vsld.vercel.app)
+[![Live Site](https://img.shields.io/badge/Live-Site-A855F7?style=for-the-badge&logo=vercel)](https://vsld.vercel.app)
 [![Repo](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/AdityaAneNenu/My_Portfolio)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
@@ -148,7 +127,6 @@ Streamlined doctor scheduling and availability tracking for improved healthcare 
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2">
 
@@ -168,12 +146,12 @@ Multi-agent architecture for intelligent, context-aware responses.
 ## 🎯 Achievements & Recognition
 
 | Achievement | Description |
-|:---------------|:---------------|
-| **Production Deployments** | Multiple applications deployed on Vercel with active users |
-| **Social Impact** | Built projects addressing rural development challenges |
-| **AI Excellence** | Developed AI solutions with 90%+ accuracy rates |
-| **Modern Stack** | Leveraging cutting-edge technologies (React 19, Next.js 15) |
-| **Network Engineering** | Campus Network VLAN design for BSNL enterprise systems |
+|:---|:---|
+| 🚀 **Production Deployments** | Multiple applications deployed on Vercel with active users |
+| 🌍 **Social Impact** | Built projects addressing rural development challenges |
+| 🤖 **AI Excellence** | Developed AI solutions with 90%+ accuracy rates |
+| ⚡ **Modern Stack** | Leveraging cutting-edge technologies (React 19, Next.js 15) |
+| 🌐 **Network Engineering** | Campus Network VLAN design for BSNL enterprise systems |
 
 ---
 
@@ -183,7 +161,7 @@ Multi-agent architecture for intelligent, context-aware responses.
 <tr>
 <td width="50%" valign="top">
 
-**Network Engineering**
+**🌐 Network Engineering**
 - Campus Network VLAN design for BSNL
 - Enterprise-level infrastructure planning
 - Network security implementation
@@ -191,7 +169,7 @@ Multi-agent architecture for intelligent, context-aware responses.
 </td>
 <td width="50%" valign="top">
 
-**Research & Development**
+**🔬 Research & Development**
 - Cutting-edge AI/ML technologies
 - Practical applications & real-world solutions
 - Innovation in web development
@@ -224,13 +202,11 @@ for role, passion in opportunities.items():
 
 *"The best way to predict the future is to create it."*
 
-*If my work adds value to you, consider starring the repository.*
+*If my work adds value to you, consider starring ⭐ the repository.*
 
 ---
 
-### 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-00C7B7?style=for-the-badge)](https://vsld.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vsld.vercel.app-A855F7?style=for-the-badge)](https://vsld.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vsld)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge)](mailto:adityaanenenu5@gmail.com)
 
@@ -241,5 +217,3 @@ for role, passion in opportunities.items():
 *Open to full-time roles, freelance projects, and research collaborations.*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:0D1117&height=120&section=footer" width="100%" alt="Profile footer banner" />
