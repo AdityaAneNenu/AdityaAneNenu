@@ -66,7 +66,7 @@ const aditya = {
 
 <br/><br/>
 
-[![Inavra](https://hackatime.hackclub.com/api/v1/badge/U091P96N85Q/AdityaAneNenu/Inavra)](https://hackatime.hackclub.com)
+[![My_Portfolio](https://hackatime.hackclub.com/api/v1/badge/U091P96N85Q/AdityaAneNenu/My_Portfolio)](https://hackatime.hackclub.com)
 
 </div>
 
